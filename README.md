@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and entertainment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects to help the latino community
-- 📫 How to reach me..here!
+- 📫 How to reach me: https://www.linkedin.com/in/sandracontreras1/
 
 <!---
 SammyCHM/SammyCHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
